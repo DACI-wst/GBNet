@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Code%20Coming%20Soon-orange)]()
 
-This is the official repository for the paper **"GBNet: Gaussian-guided Binning Network for Gaze Estimation"** (submitted to *Neurocomputing*).
+This is the official repository for the paper **"GBNet: Gaussian-guided Binning Network for Gaze Estimation"**.
 
 ## 📢 Update
 **The source code, pre-trained models, and data processing scripts will be made publicly available here upon the acceptance of the manuscript.** 
